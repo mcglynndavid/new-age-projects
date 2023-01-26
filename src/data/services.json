@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/project1.jpg ",
+        "alt": "Consultation",
+        "name": "Consultation",
+        "button": "Make an appointment"
+    },
+    {
+        "img": "../assets/images/wood2.jpg ",
+        "alt": "Design",
+        "name": "Design",
+        "button": "Make an appointment"
+    },
+    {
+        "img": "../assets/images/wood1.jpg ",
+        "alt": "Labour",
+        "name": "Labour",
+        "button": "Make an appointment"
+    },
+    {
+        "img": "../assets/images/wood3.jpg ",
+        "alt": "Project Management",
+        "name": "Project Management",
+        "button": "Make an appointment"
+    }
+]
