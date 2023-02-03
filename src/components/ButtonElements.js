@@ -10,7 +10,7 @@ export const Button = styled.button`
   outline: none;
   border: none;
   cursor: pointer;
-  font-family: "Raleway Regular", sans-serif;
+  font-family: "Montserrat", sans-serif;
 
   &:hover {
     transition: all 0.3s ease-out;
