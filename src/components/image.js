@@ -11,7 +11,7 @@ const Image = () => {
           node {
             base
             childImageSharp {
-              fluid(maxHeight: 600, maxWidth: 600) {
+              fluid(maxHeight: 800, maxWidth: 800) {
                 ...GatsbyImageSharpFluid
               }
             }
