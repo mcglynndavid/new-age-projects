@@ -16,14 +16,14 @@ function ContactForm() {
         <p2>Or get in touch via social media:</p2> 
           <p2>
           <SocialIcons>
+            <SocialIconLink href="https://www.linkedin.com/company/new-age-projects/" target="_blank" aria-label="Linkedin">
+              <FaLinkedin  size="3x"/>
+            </SocialIconLink>
             <SocialIconLink href="https://www.facebook.com/newageprojects" target="_blank" aria-label="Facebook">
               <FaFacebook size="3x"/>
             </SocialIconLink>
             <SocialIconLink href="https://www.instagram.com/newageprojectsca" target="_blank" aria-label="Instagram">
               <FaInstagram  size="3x"/>
-            </SocialIconLink>
-            <SocialIconLink href="https://www.linkedin.com/company/new-age-projects/" target="_blank" aria-label="Linkedin">
-              <FaLinkedin  size="3x"/>
             </SocialIconLink>
           </SocialIcons>
         </p2>

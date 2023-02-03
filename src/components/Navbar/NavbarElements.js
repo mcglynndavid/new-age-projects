@@ -24,7 +24,7 @@ export const NavbarContainer = styled.div`
   justify-content: space-between;
   height: 80px;
   z-index: 1;
-  width: 97%;
+  width: 100%;
   max-width: 1000px;
 `
 
@@ -33,7 +33,7 @@ export const NavLogo = styled(Link)`
   justify-self: flex-start;
   cursor: pointer;
   text-decoration: none;
-  font-size: 1.5rem;
+  font-size: 1rem;
   display: flex;
   align-items: center;
 `
@@ -73,7 +73,7 @@ export const NavMenu = styled.ul`
 `
 
 export const NavItem = styled.li`
-  height: 80px;
+  height: 50px;
 
   @media screen and (max-width: 960px) {
     width: 100%;
