@@ -1,13 +1,15 @@
-import * as React from "react"
-import Header from "./Header"
-import { GlobalStyle } from "./styles/globalStyles"
+import React from "react"
+
+import "./layout.css"
+import Navbar from './Navbar'
+import Footer from "./Footer"
 
 const Layout = ({ children }) => {
   return (
     <>
-    <GlobalStyle />
-      <Header />
+      <Navbar />
       <main>{children}</main>
+      <Footer />
     </>
   )
 }

@@ -1,16 +1,19 @@
-import * as React from "react"
-import Hero from "../components/Hero"
-// import { Link } from "gatsby"
+import React from "react"
+
 import Layout from "../components/layout"
-import Seo from "../components/seo"
-import Services from "../components/Services"
-import { StaticImage } from "gatsby-plugin-image"
+import Image from "../components/image"
+import SEO from "../components/seo"
+import HeroSection from "../components/HeroSection"
+import About from "../components/About"
+import Contact from "../components/Contact"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
-    <Hero />
-    <Services />
+    <SEO title="Home" />
+    <HeroSection />
+    <Image />
+    <About />
+    <Contact />
   </Layout>
 )
 
