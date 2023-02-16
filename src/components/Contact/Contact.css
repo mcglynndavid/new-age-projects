@@ -101,16 +101,15 @@
 }
 
 .btn-f {
-  background-color: #3b5998;
+  background-color: #FFC800;
 }
 
 .btn-i {
-  background-color: #d6249f;
-  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  background-color: #FFC800;
 }
 
 .btn-l {
-  background-color: #0976b4;
+  background-color: #FFC800;
 }
 
 .btn--:hover {
