@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `New Age Projects`,
     description: `Vancouver based construction firm specializing in carpentry, joinery and project management.`,
-    author: `@shadowplay`,
+    author: `@mcglynndavid`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

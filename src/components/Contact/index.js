@@ -21,15 +21,6 @@ function ContactForm() {
         <p2>Or get in touch via social media:</p2>
         <p2> 
           <a
-            href="https://www.linkedin.com/company/new-age-projects/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <button type="button" className="btn-- btn-l">
-              <FontAwesomeIcon icon={faLinkedinIn} size="2x" />
-            </button>
-          </a>
-          <a
           href="https://www.facebook.com/newageprojects"
           target="_blank"
           rel="noreferrer"
@@ -45,6 +36,15 @@ function ContactForm() {
           >
             <button type="button" className="btn-- btn-i ">
               <FontAwesomeIcon icon={faInstagram} size="2x" />
+            </button>
+          </a>
+          <a
+            href="https://www.linkedin.com/company/new-age-projects/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <button type="button" className="btn-- btn-l">
+              <FontAwesomeIcon icon={faLinkedinIn} size="2x" />
             </button>
           </a>
       </p2>  
